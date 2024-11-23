@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Update Date: 2024/02/29
+; Update Date: 2024/11/08
 ; Author: Pluwen
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 
@@ -19,6 +19,7 @@
 *.0daydown.com
 *.0o0.ooo
 *.10010.com
+*.10086cloud.com
 *.114la.com
 *.114yygh.com
 *.115.com
@@ -36,6 +37,7 @@
 *.17font.com
 *.17k.com
 *.199it.com
+*.1ptba.com
 *.1qimg.com
 *.1qmsg.com
 *.1tpic.com
@@ -53,6 +55,7 @@
 *.360buyimg.com
 *.360doc.com
 *.360in.com
+*.360safe.com
 *.36kr.com
 *.39.net
 *.3dmgame.com
@@ -64,6 +67,7 @@
 *.51cto.com
 *.51job.com
 *.51ym.me
+*.52audio.com
 *.52yuwan.com
 *.56.com
 *.58.com
@@ -79,6 +83,7 @@
 *.91118.com
 *.91mjw.com
 *.99.com
+*.a9vg.com
 *.aaplimg.com
 *.abchina.com
 *.accuweather.com
@@ -117,6 +122,7 @@
 *.alikunlun.com
 *.alikunlun.net
 *.alimama.com
+*.alipan.com
 *.alipay.com
 *.alipayobjects.com
 *.alisports.com
@@ -136,6 +142,7 @@
 *.ant.design
 *.antfin-inc.com
 *.antfin.com
+*.antpcdn.com
 *.anw.red
 *.anyway.fm
 *.anzhi.com
@@ -199,6 +206,7 @@
 *.biliapi.net
 *.bilibili.com
 *.bilibili.tv
+*.bilicomic.com
 *.biligame.com
 *.biligame.net
 *.bilivideo.com
@@ -228,6 +236,8 @@
 *.ccb.com
 *.ccgslb.com
 *.ccgslb.net
+*.cckefu.net
+*.cckefu3.com
 *.cctv.com
 *.cctvpic.com
 *.cdn-apple.com
@@ -287,6 +297,7 @@
 *.coolpad.com
 *.cootekservice.com
 *.cowtransfer.com
+*.cqvip.com
 *.csair.com
 *.csdn.net
 *.css-js.com
@@ -325,6 +336,7 @@
 *.dmzj.com
 *.dns.com
 *.dnspao.com
+*.doc88.com
 *.docer.com
 *.docin.com
 *.docschina.org
@@ -369,6 +381,7 @@
 *.enkj.com
 *.epicgames.com
 *.epubw.com
+*.erp321.com
 *.etao.com
 *.eudic.net
 *.ewei.com
@@ -386,18 +399,22 @@
 *.fiio.com
 *.fir.im
 *.firefox.com
+*.fj12379.com
+*.fjdzyz.com
 *.fjgdwl.com
 *.fjhxbank.com
 *.fliggy.com
 *.flomoapp.com
 *.flow.ci
 *.flyertea.com
+*.fnnas.com
 *.fontke.com
 *.foundertype.com
 *.foxirj.com
 *.frdic.com
 *.freebuf.com
 *.freeziti.com
+*.fromgeek.com
 *.futu5.com
 *.futunn.com
 *.fydeos.com
@@ -421,6 +438,7 @@
 *.gitee.io
 *.godic.net
 *.golaravel.com
+*.goofish.com
 *.googletagmanager.com
 *.gratisography.com
 *.growingio.com
@@ -442,6 +460,7 @@
 *.hdbits.org
 *.hdchina.org
 *.hddolby.com
+*.hdfans.org
 *.hdhome.org
 *.hdsky.me
 *.hdslb.com
@@ -451,12 +470,14 @@
 *.hexun.com
 *.hexunimg.com
 *.hicloud.com
+*.hihonor.com
 *.hikvision.com
 *.hitv.com
 *.hiwifi.com
 *.homestyler.com
 *.hommk.com
 *.hongxiu.com
+*.honor.com
 *.hostbuf.com
 *.hostker.com
 *.hotmail.com
@@ -519,6 +540,7 @@
 *.ip-cdn.com
 *.ip.la
 *.ip.sb
+*.ip138.com
 *.ipip.net
 *.iplaysoft.com
 *.ipv6-test.com
@@ -542,6 +564,7 @@
 *.jdkindle.com
 *.jdpay.com
 *.jetbrains.com
+*.jfdaily.com
 *.jfrft.com
 *.jhdec.com
 *.jianguoyun.com
@@ -628,6 +651,7 @@
 *.lecloud.com
 *.leetcode-cn.com
 *.lemicp.com
+*.lenovo.net
 *.lenovomobile.com
 *.letv.com
 *.letvimg.com
@@ -723,7 +747,6 @@
 *.momoyu.cc
 *.moonvy.com
 *.morethan.tv
-*.motiff.com
 *.mozilla.org
 *.mp4ba.cc
 *.msftconnecttest.com
@@ -794,6 +817,7 @@
 *.paipai.com
 *.panda.tv
 *.panduoduo.net
+*.paperpass.com
 *.passthepopcorn.me
 *.pc6.com
 *.pcbeta.com
@@ -823,6 +847,7 @@
 *.pterclub.com
 *.pythonclub.org
 *.qbox.me
+*.qcc.com
 *.qcloud.com
 *.qcloudcdn.com
 *.qcwgg.com
@@ -833,6 +858,7 @@
 *.qhimg.com
 *.qhmsg.com
 *.qhres.com
+*.qianxin.com
 *.qichacha.com
 *.qidian.com
 *.qihucdn.com
@@ -867,6 +893,7 @@
 *.redacted.ch
 *.renren.com
 *.renrenche.com
+*.renrendoc.com
 *.researchgate.net
 *.rework.tools
 *.rkecloud.com
@@ -891,6 +918,7 @@
 *.sc115.com
 *.sciencedirect.com
 *.sciencemag.org
+*.scofd.com
 *.scomper.me
 *.sdbeta.com
 *.sdo.com
@@ -949,9 +977,6 @@
 *.staticfile.org
 *.steamcn.com
 *.steamcontent.com
-*.steamdb.info
-*.steampowered.com
-*.steamstatic.com
 *.subhd.tv
 *.sui.com
 *.suning.com
@@ -980,12 +1005,12 @@
 *.tencent-cloud.net
 *.tencent.com
 *.tencentmind.com
+*.tengshiauto.com
 *.tenpay.com
 *.tenxcloud.com
 *.test-ipv6.com
 *.tgbus.com
 *.thefuture.top
-*.thetype.com
 *.thomsonreuters.com
 *.tianyancha.com
 *.tietuku.com
@@ -1094,6 +1119,7 @@
 *.wps.com
 *.wscdns.com
 *.wulihub.com
+*.wxb.com
 *.xbongbong.com
 *.xclient.info
 *.xdccpro.com
@@ -1135,6 +1161,7 @@
 *.xywy.com
 *.yamibo.com
 *.yangkeduo.com
+*.yangwangauto.com
 *.yaohuo.me
 *.yd-jxt.com
 *.ydstatic.com
